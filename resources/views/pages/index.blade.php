@@ -11,7 +11,7 @@
       <div class="image"></div>
       <div class="text">
         <h3>Amerika Serikat</h3>
-        <p>Amerika adalah tempat terbaik untuk dikunjungi</p>
+        <p>Trip ke dua ujung Amerika Serikat, New York dan California</p>
         <div class="button">
           <button class="btn-primary">Pelajari</button>
           <button class="btn-info">Blog</button>
@@ -22,8 +22,8 @@
     <div class="card">
       <div class="image"></div>
       <div class="text">
-        <h3>Amerika Serikat</h3>
-        <p>Amerika adalah tempat terbaik untuk dikunjungi</p>
+        <h3>Eropa Barat</h3>
+        <p>Jalur trip terbaik Eropa meliputi Swiss, Italia, Prancis, dan Jerman</p>
         <div class="button">
           <button class="btn-primary">Pelajari</button>
           <button class="btn-info">Blog</button>
@@ -34,8 +34,8 @@
     <div class="card">
       <div class="image"></div>
       <div class="text">
-        <h3>Amerika Serikat</h3>
-        <p>Amerika adalah tempat terbaik untuk dikunjungi</p>
+        <h3>Timur Tengah</h3>
+        <p>Perjalanan penuh sejarah ke Jerusalem, Amman, dan laut mati</p>
         <div class="button">
           <button class="btn-primary">Pelajari</button>
           <button class="btn-info">Blog</button>
@@ -46,8 +46,8 @@
     <div class="card">
       <div class="image"></div>
       <div class="text">
-        <h3>Amerika Serikat</h3>
-        <p>Amerika adalah tempat terbaik untuk dikunjungi</p>
+        <h3>Inggris Raya</h3>
+        <p>Pesona klasik Inggris dan Irlandia yang wajib dikunjungi sekali seumur hidup</p>
         <div class="button">
           <button class="btn-primary">Pelajari</button>
           <button class="btn-info">Blog</button>
